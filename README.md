@@ -12,6 +12,7 @@
 4. [Lecture 4: Interpretable Models](#lecture-4-interpretable-models)
 5. [Lecture 5: Model-Agnostic Methods](#lecture-5-model-agnostic-methods)
 6. [Detailed Q&A Section](#detailed-qa-section)
+7. [Exam Guide](#xai4cv-exam-preparation-guide)
 
 ---
 
